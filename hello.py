@@ -1,7 +1,7 @@
 def suma(x,y):
   """Esta funcion hace una suma"""
   res=x+y
-  return(res)
+  return res
 
 def resta(x,y):
   """Esta funcion hace una resta"""

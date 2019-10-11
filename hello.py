@@ -24,3 +24,4 @@ def modulo(x,y):
 
 if __name__ == "__main__":
     print(division(10,5))
+    print(multiplicacion(3.1416,60))

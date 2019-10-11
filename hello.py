@@ -11,7 +11,9 @@ def division(x,y):
 
 def multiplicacion(x,y):
   """Esta funcion hace una multiplicacion"""
-  
+  m = x*y
+  return m
+
 def modulo(x,y):
   """Esta funcion hace una suma"""
 
